@@ -78,5 +78,5 @@ The original course submission PDF is kept locally under `_archive/` and ignored
 - Keyboard and mouse input handling.
 - State management across stages, restarts, timers, and deaths.
 - Dependency management with Maven.
-- Project cleanup for public GitHub presentation.
+
 
